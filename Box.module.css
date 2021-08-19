@@ -1,0 +1,9 @@
+.Box {
+    background: black;
+    color: white;
+    padding: 2rem;
+}
+
+.grid {
+    grid-column:  4/5;
+}
